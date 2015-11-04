@@ -2,7 +2,7 @@
 <h3>
 Image Manipulation &amp; Computational Photography
 </h3>
-
+<br>
 The following webpages represent my portfolio of my work in Computational Photography:
 <br><br>
 1. <a href="https://inst.eecs.berkeley.edu/~cs194-26/fa15/upload/files/proj1/cs194-de/">Colorizing Grayscale Images</a><br><br>
